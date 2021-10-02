@@ -1,2 +1,3 @@
-# Rick
-0618
+# Rick Sanchez
+
+Somos Familia Hackers
